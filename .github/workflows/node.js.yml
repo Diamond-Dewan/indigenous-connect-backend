@@ -3,7 +3,7 @@ name: Indigenous connect backend CI
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "none" ]
   
 jobs:
   build:
